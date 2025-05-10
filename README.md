@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**afloresbetclic/afloresbetclic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+- 💼 Actuellement chez **Betclic Group**.
+- 🔧 Passionné par le développement logiciel et les technologies innovantes.
+- 🌱 En apprentissage constant pour maîtriser de nouvelles compétences.
 
-Here are some ideas to get you started:
+## 🌟 Centres d'intérêt
+- 📊 Analyse de données
+- 🖥️ Développement backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- 📧 Email : [votre email](mailto:a.flores@betclicgroup.com)
+- 💼 LinkedIn : [Anthony Flores]([https://linkedin.com/in/votreprofil](https://www.linkedin.com/in/anthony-551ba4150/))
