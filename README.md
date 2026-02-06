@@ -1,14 +1,40 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 👋 Hey, I'm Anthony!
 
-## À propos de moi
-- 💼 Actuellement chez **Betclic Group**.
-- 🔧 Passionné par le développement logiciel et les technologies innovantes.
-- 🌱 En apprentissage constant pour maîtriser de nouvelles compétences.
+**Backend Engineer @ Betclic Group** | **C# / .NET Specialist** | **Clean Architecture Enthusiast**
 
-## 🌟 Centres d'intérêt
-- 📊 Analyse de données
-- 🖥️ Développement backend
+I build scalable, maintainable backend systems with a strong focus on code quality and software craftsmanship.
 
-## 📫 Me contacter
-- 📧 Email : [a.flores@betclicgroup.com](mailto:a.flores@betclicgroup.com)
-- 💼 LinkedIn : [Anthony Flores]([https://linkedin.com/in/votreprofil](https://www.linkedin.com/in/anthony-551ba4150/))
+---
+
+## 🛠️ Tech Stack
+
+**Core**: C# • .NET 8 • ASP.NET Core  
+**Data**: SQL Server • Entity Framework Core • Dapper  
+**Architecture**: REST APIs • Clean Architecture • DDD • CQRS  
+**Tools**: Git • Docker • Azure DevOps  
+
+---
+
+## 🎯 What I Care About
+
+- 🏗️ **Clean Architecture** – Building systems that scale and evolve gracefully
+- 📐 **Domain-Driven Design** – Understanding the *why*, not just the *how*
+- 🔍 **Code Quality** – SOLID principles, testability, and maintainability
+- 🚀 **Continuous Learning** – Always exploring new patterns and best practices
+
+---
+
+## 💼 Currently
+
+Working in the **Account Management** team at **Betclic**, crafting robust backend solutions for millions of users.
+
+---
+
+## 📫 Let's Connect
+
+- 💌 [a.flores@betclicgroup.com](mailto:a.flores@betclicgroup.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anthony-551ba4150/)
+
+---
+
+⚡ *"Good code is its own best documentation."* – Steve McConnell
